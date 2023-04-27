@@ -3,9 +3,9 @@
 class Config
 {
 
-    const GOOGLE_WEB_CLIENT_ID = '320393148274-gp82vd168vk8t4f3f5irq24g56ap4elf.apps.googleusercontent.com';
+    const GOOGLE_WEB_CLIENT_ID = //Your client id;
 
-    const GOOGLE_WEB_CLIENT_SECRET = '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';
+    const GOOGLE_WEB_CLIENT_SECRET = //Your Client Secret;
 
     const GOOGLE_ACCESS_SCOPE = 'https://www.googleapis.com/auth/drive';
 
